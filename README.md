@@ -75,4 +75,10 @@ I build VR games with **Unity Engine**.
   <img src="79m9ck.jpg" height="100">
   <img src="9kfd6qil2x681.jpg" height="100">
   <img src="515083202_18054670109346477_8322925008111683716_n.jpg" height="100">
+  <img src="v1.png" height="100">
+  <img src="v2.png" height="100">
+  <img src="v3.png" height="100">
+  <img src="v4.png" height="100">
+  <img src="v5.png" height="100">
+  <img src="v6.png" height="100">
 </
