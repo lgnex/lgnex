@@ -12,7 +12,7 @@ I build VR games with **Unity Engine**.
 - A VR horror universe (Primal Paradox) 
 - Gorilla Tag Mods
 
-🎮 **Favorite Game(s)**: *[Yeeps: Horror](https://www.meta.com/experiences/yeeps-horror/7276525889052788/?srsltid=AfmBOopT0sDnsUG4LLO_eKn_hpbsM0EWTAGZd6KTaI1KmwBsPqWaQJka), [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/), [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)*
+🎮 **Favorite Game(s)**: *[Yeeps: Horror](https://www.meta.com/experiences/yeeps-horror/7276525889052788/?srsltid=AfmBOopT0sDnsUG4LLO_eKn_hpbsM0EWTAGZd6KTaI1KmwBsPqWaQJka), [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/), [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/) [Primal Paradox: Legacy](https://www.meta.com/experiences/primal-paradox-legacy/24357639250551331/?srsltid=AfmBOoo6khf8EptAvDv1xCzE8a-hGPEtcGeuzqUqLze_M9kVApjqB_8e)*
 
 ---
 
