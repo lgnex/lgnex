@@ -11,13 +11,15 @@ I build VR games with **Unity Engine**.
 💡 Currently working on:
 - A VR horror universe (Primal Paradox) 
 - Gorilla Tag Mods
+- Nex's Nightmares
+- GTHTracker
 
 🎮 **Favorite Game(s)**: *[Yeeps: Horror](https://www.meta.com/experiences/yeeps-horror/7276525889052788/?srsltid=AfmBOopT0sDnsUG4LLO_eKn_hpbsM0EWTAGZd6KTaI1KmwBsPqWaQJka), [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/), [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/) [Primal Paradox: Legacy](https://www.meta.com/experiences/primal-paradox-legacy/24357639250551331/?srsltid=AfmBOoo6khf8EptAvDv1xCzE8a-hGPEtcGeuzqUqLze_M9kVApjqB_8e)*
 
 ---
 
-### 🎃 A Bit More About Me
-- **Unfinished**
+### An about me that exists
+[About Me](https://luminateam.dev/about)
 
 ---
 
@@ -38,8 +40,8 @@ I build VR games with **Unity Engine**.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FemboyNex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FemboyNex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lgnex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgnex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150px" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -58,8 +60,8 @@ I build VR games with **Unity Engine**.
 📩 **Reach out**!
 - **Website:** [luminateam.dev](https://luminateam.dev)  
 - **Discord:** udistruct  
-- **Email:** nex@luminateam.dev 
-- **Team:** [Lumina Team](https://luminateam.dev)
+- **Email:** nex@luminateam.dev
+- **More Contact:** [My Contact Info](https://luminateam.dev/contact)
 
 ---
 > _"wdmvnw"_
